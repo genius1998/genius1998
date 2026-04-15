@@ -21,8 +21,6 @@
 - FastAPI 추론 서버 연동 프로젝트
 
 
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=genius1998&show_icons=true)
 
 ## Contact
 - Email: effort98@naver.com
